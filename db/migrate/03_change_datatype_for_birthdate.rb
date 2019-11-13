@@ -2,7 +2,7 @@ class ChangeDataTypeForBirthdate
   
   def change
     
-    change_column(, column_name, type)
+    change_column :students, :
     
     
   end
