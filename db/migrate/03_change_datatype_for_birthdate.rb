@@ -1,6 +1,6 @@
 class ChangeDataTypeForBirthdate
   
-  def change(table_name, column_name, type)
+  def change
     
     change_column(, column_name, type)
     
